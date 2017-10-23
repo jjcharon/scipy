@@ -22,6 +22,9 @@ Generate C code coverage listing under build/lcov/:
 
     $ python runtests.py --gcov [...other args...]
     $ python runtests.py --lcov-html
+    
+    
+    added JJ for tet solani
 
 """
 
